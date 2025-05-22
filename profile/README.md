@@ -1,4 +1,4 @@
-# NetSpor – Canlı Maç İzle, Kesintisiz Spor Keyfi
+# NetSpor 👑 Canlı Maç İzle 👑 Kesintisiz Spor Keyfi
 
 🏟️ **netspor** ile spor heyecanı her an elinizin altında! Futbol, basketbol, tenis ve daha fazlasını HD kalitede ve takılmadan izlemek artık çok kolay.  
 **net spor**, canlı maç izle deneyimini zahmetsiz ve akıcı hale getiriyor.
