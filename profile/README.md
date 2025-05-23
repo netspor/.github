@@ -3,9 +3,11 @@
 🏟️ **netspor** ile spor heyecanı her an elinizin altında! Futbol, basketbol, tenis ve daha fazlasını HD kalitede ve takılmadan izlemek artık çok kolay.  
 **net spor**, canlı maç izle deneyimini zahmetsiz ve akıcı hale getiriyor.
 
-## 🔗 Site Linki
+## 🔗 Link
 
-👉 [Canlı Maç İzlemek İçin Tıklayın](https://bosstv1.com/)
+<a href="https://bosstv1.com/">
+  <img src="https://i.ibb.co/FL3kspJ2/canliizle.gif"  style="max-width:100%; border-radius:12px;">
+</a>
 
 ## 📺 Neden Net Spor?
 
